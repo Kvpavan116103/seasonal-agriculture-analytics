@@ -1,9 +1,3 @@
-👉 [Explore the Complete Python Source Code Notebook](./agriculture_analysis.ipynb)  
-👉 [Download the Formal Publication-Grade Project Report (PDF)](./agricultural_analytics_report.pdf)  
-👉 [Access the Raw Source Dataset (CSV)](./seasonal_agriculture_performance_dataset.csv)
-
----
-
 # 🌾 Data-Driven Agronomic Optimization and Risk Management System for Seasonal Agriculture
 [![AICTE Internship](https://shields.io)](https://aicte-india.org)
 [![VOIS Certificate](https://shields.io)](https://vodafoneidea-foundation.org)
