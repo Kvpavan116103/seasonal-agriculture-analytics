@@ -1,4 +1,8 @@
 # 🌾 Data-Driven Agronomic Optimization and Risk Management System for Seasonal Agriculture
+[![AICTE Internship](https://shields.io)](https://aicte-india.org)
+[![VOIS Certificate](https://shields.io)](https://vodafoneidea-foundation.org)
+[![Edunet Foundation](https://shields.io)](https://edunetfoundation.org)
+
 An advanced agricultural data engineering and multi-variable analytical pipeline designed to model, clean, and analyze 4,000 distinct farm profiles across India. This system transforms chaotic crop performance metrics into structured asset management strategies to eliminate seasonal capital losses and optimize crop input allocation across variable weather patterns.
 
 ---
